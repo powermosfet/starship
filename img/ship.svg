@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="ship.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.62092452"
+     inkscape:cx="7.2472577"
+     inkscape:cy="562.87034"
+     inkscape:window-width="1594"
+     inkscape:window-height="894"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3000">
+      <stop
+         style="stop-color:#fffe00;stop-opacity:1;"
+         offset="0.15384738"
+         id="stop5133" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="1"
+         id="stop2998" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3000"
+       id="linearGradient3002"
+       x1="60.760532"
+       y1="146.8011"
+       x2="62.710381"
+       y2="210.52789"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad"
+       gradientTransform="matrix(0.78836735,0,0,0.67700346,12.733838,46.54718)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;fill:url(#linearGradient3002);fill-opacity:1;stroke:#000000;stroke-width:0.193295px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 49.703659,159.57754 -7.165184,20.50481 10.317915,-13.518 0.718961,19.41677 6.081748,-18.37283 1.869485,21.32437 3.702192,-21.42993 4.971657,16.04425 -0.976673,-17.35638 8.431286,10.82997 -5.116309,-19.3051 -3.421802,-12.67059 -13.39052,-0.85129 z"
+       id="path2994"
+       inkscape:export-filename="ship.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 44.038083,167.4876 c 0,-44.34402 17.687806,-81.810083 17.687806,-81.810083 0,0 17.817049,36.743283 17.699065,81.811573 -10.665547,-13.28426 -22.104522,-17.47708 -35.386871,-0.001 z"
+       id="path113"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="ship.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
